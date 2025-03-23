@@ -2,8 +2,7 @@
 - 👀 I’m interested in video game
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on le développement de jeux vidéo
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me matheo.vinet.44@gmail.com
 - ⚡ Fun fact: Babou est le surnom que m'a donné ma petite soeur :)
 
 <!---
